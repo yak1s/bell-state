@@ -1,0 +1,352 @@
+{
+ "clips": {
+  "boot_0": {
+   "dur": 2224,
+   "file": "audio/voice/boot_0.mp3"
+  },
+  "boot_1": {
+   "dur": 3478,
+   "file": "audio/voice/boot_1.mp3"
+  },
+  "boot_2": {
+   "dur": 1226,
+   "file": "audio/voice/boot_2.mp3"
+  },
+  "boot_3": {
+   "dur": 6334,
+   "file": "audio/voice/boot_3.mp3"
+  },
+  "beckett_contingency_0": {
+   "dur": 6706,
+   "file": "audio/voice/beckett_contingency_0.mp3"
+  },
+  "beckett_contingency_1": {
+   "dur": 10049,
+   "file": "audio/voice/beckett_contingency_1.mp3"
+  },
+  "beckett_contingency_2": {
+   "dur": 9980,
+   "file": "audio/voice/beckett_contingency_2.mp3"
+  },
+  "beckett_contingency_3": {
+   "dur": 8308,
+   "file": "audio/voice/beckett_contingency_3.mp3"
+  },
+  "beckett_contingency_4": {
+   "dur": 9237,
+   "file": "audio/voice/beckett_contingency_4.mp3"
+  },
+  "beckett_contingency_5": {
+   "dur": 5684,
+   "file": "audio/voice/beckett_contingency_5.mp3"
+  },
+  "beckett_contingency_6": {
+   "dur": 1795,
+   "file": "audio/voice/beckett_contingency_6.mp3"
+  },
+  "tamsin_0": {
+   "dur": 1806,
+   "file": "audio/voice/tamsin_0.mp3"
+  },
+  "tamsin_1": {
+   "dur": 9388,
+   "file": "audio/voice/tamsin_1.mp3"
+  },
+  "tamsin_2": {
+   "dur": 10630,
+   "file": "audio/voice/tamsin_2.mp3"
+  },
+  "tamsin_3": {
+   "dur": 4709,
+   "file": "audio/voice/tamsin_3.mp3"
+  },
+  "tamsin_4": {
+   "dur": 3176,
+   "file": "audio/voice/tamsin_4.mp3"
+  },
+  "yvonne_0": {
+   "dur": 5069,
+   "file": "audio/voice/yvonne_0.mp3"
+  },
+  "yvonne_1": {
+   "dur": 7495,
+   "file": "audio/voice/yvonne_1.mp3"
+  },
+  "yvonne_2": {
+   "dur": 1934,
+   "file": "audio/voice/yvonne_2.mp3"
+  },
+  "yvonne_3": {
+   "dur": 3304,
+   "file": "audio/voice/yvonne_3.mp3"
+  },
+  "yvonne_4": {
+   "dur": 7194,
+   "file": "audio/voice/yvonne_4.mp3"
+  },
+  "lastminute_0": {
+   "dur": 3509,
+   "file": "audio/voice/lastminute_0.mp3"
+  },
+  "lastminute_1": {
+   "dur": 3258,
+   "file": "audio/voice/lastminute_1.mp3"
+  },
+  "lastminute_2": {
+   "dur": 2015,
+   "file": "audio/voice/lastminute_2.mp3"
+  },
+  "lastminute_3": {
+   "dur": 2584,
+   "file": "audio/voice/lastminute_3.mp3"
+  },
+  "lastminute_4": {
+   "dur": 854,
+   "file": "audio/voice/lastminute_4.mp3"
+  },
+  "lastminute_5": {
+   "dur": 3258,
+   "file": "audio/voice/lastminute_5.mp3"
+  },
+  "silas_0": {
+   "dur": 4326,
+   "file": "audio/voice/silas_0.mp3"
+  },
+  "silas_1": {
+   "dur": 18223,
+   "file": "audio/voice/silas_1.mp3"
+  },
+  "silas_2": {
+   "dur": 6926,
+   "file": "audio/voice/silas_2.mp3"
+  },
+  "silas_3": {
+   "dur": 4825,
+   "file": "audio/voice/silas_3.mp3"
+  },
+  "august_0": {
+   "dur": 8877,
+   "file": "audio/voice/august_0.mp3"
+  },
+  "august_1": {
+   "dur": 10444,
+   "file": "audio/voice/august_1.mp3"
+  },
+  "august_2": {
+   "dur": 4361,
+   "file": "audio/voice/august_2.mp3"
+  },
+  "call_voicemail_0": {
+   "dur": 5092,
+   "file": "audio/voice/call_voicemail_0.mp3"
+  },
+  "conference_0": {
+   "dur": 1783,
+   "file": "audio/voice/conference_0.mp3"
+  },
+  "conference_1": {
+   "dur": 2863,
+   "file": "audio/voice/conference_1.mp3"
+  },
+  "conference_2": {
+   "dur": 3316,
+   "file": "audio/voice/conference_2.mp3"
+  },
+  "conference_3": {
+   "dur": 3339,
+   "file": "audio/voice/conference_3.mp3"
+  },
+  "conference_4": {
+   "dur": 2828,
+   "file": "audio/voice/conference_4.mp3"
+  },
+  "conference_5": {
+   "dur": 2778,
+   "file": "audio/voice/conference_5.mp3"
+  },
+  "conference_6": {
+   "dur": 4721,
+   "file": "audio/voice/conference_6.mp3"
+  },
+  "conference_7": {
+   "dur": 1226,
+   "file": "audio/voice/conference_7.mp3"
+  },
+  "beckett_loop_0": {
+   "dur": 6671,
+   "file": "audio/voice/beckett_loop_0.mp3"
+  },
+  "beckett_loop_1": {
+   "dur": 4964,
+   "file": "audio/voice/beckett_loop_1.mp3"
+  },
+  "beckett_loop_2": {
+   "dur": 2015,
+   "file": "audio/voice/beckett_loop_2.mp3"
+  },
+  "ck_coherence_0": {
+   "dur": 2213,
+   "file": "audio/voice/ck_coherence_0.mp3"
+  },
+  "ck_coherence_1": {
+   "dur": 3269,
+   "file": "audio/voice/ck_coherence_1.mp3"
+  },
+  "ck_coherence_2": {
+   "dur": 1934,
+   "file": "audio/voice/ck_coherence_2.mp3"
+  },
+  "call_intro": {
+   "dur": 14752,
+   "file": "audio/voice/call_intro.mp3"
+  },
+  "call_right_0": {
+   "dur": 4326,
+   "file": "audio/voice/call_right_0.mp3"
+  },
+  "call_right_1": {
+   "dur": 3211,
+   "file": "audio/voice/call_right_1.mp3"
+  },
+  "call_right_2": {
+   "dur": 2108,
+   "file": "audio/voice/call_right_2.mp3"
+  },
+  "call_wrong_0": {
+   "dur": 4500,
+   "file": "audio/voice/call_wrong_0.mp3"
+  },
+  "call_wrong_1": {
+   "dur": 4349,
+   "file": "audio/voice/call_wrong_1.mp3"
+  },
+  "call_wrong_2": {
+   "dur": 3095,
+   "file": "audio/voice/call_wrong_2.mp3"
+  },
+  "call_bridged_wait": {
+   "dur": 7147,
+   "file": "audio/voice/call_bridged_wait.mp3"
+  },
+  "call_bridged_now": {
+   "dur": 5765,
+   "file": "audio/voice/call_bridged_now.mp3"
+  },
+  "reveal_silas": {
+   "dur": 6218,
+   "file": "audio/voice/reveal_silas.mp3"
+  },
+  "reveal_august": {
+   "dur": 6149,
+   "file": "audio/voice/reveal_august.mp3"
+  },
+  "reveal_yvonne": {
+   "dur": 5580,
+   "file": "audio/voice/reveal_yvonne.mp3"
+  },
+  "reveal_beckett": {
+   "dur": 5243,
+   "file": "audio/voice/reveal_beckett.mp3"
+  },
+  "reveal_tamsin": {
+   "dur": 3281,
+   "file": "audio/voice/reveal_tamsin.mp3"
+  },
+  "finale_f1": {
+   "dur": 4860,
+   "file": "audio/voice/finale_f1.mp3"
+  },
+  "finale_f2": {
+   "dur": 843,
+   "file": "audio/voice/finale_f2.mp3"
+  },
+  "finale_f3": {
+   "dur": 2062,
+   "file": "audio/voice/finale_f3.mp3"
+  },
+  "finale_f4": {
+   "dur": 12975,
+   "file": "audio/voice/finale_f4.mp3"
+  },
+  "finale_f5": {
+   "dur": 10375,
+   "file": "audio/voice/finale_f5.mp3"
+  },
+  "finale_f6": {
+   "dur": 6102,
+   "file": "audio/voice/finale_f6.mp3"
+  },
+  "finale_f7": {
+   "dur": 4268,
+   "file": "audio/voice/finale_f7.mp3"
+  },
+  "finale_f8": {
+   "dur": 6985,
+   "file": "audio/voice/finale_f8.mp3"
+  },
+  "finale_f9": {
+   "dur": 6567,
+   "file": "audio/voice/finale_f9.mp3"
+  },
+  "finale_f10": {
+   "dur": 4001,
+   "file": "audio/voice/finale_f10.mp3"
+  },
+  "finale_f11": {
+   "dur": 5986,
+   "file": "audio/voice/finale_f11.mp3"
+  },
+  "finale_f12": {
+   "dur": 7867,
+   "file": "audio/voice/finale_f12.mp3"
+  },
+  "finale_f13": {
+   "dur": 2039,
+   "file": "audio/voice/finale_f13.mp3"
+  },
+  "boot": {
+   "dur": 18165,
+   "file": "audio/voice/boot.mp3"
+  },
+  "beckett_contingency": {
+   "dur": 57162,
+   "file": "audio/voice/beckett_contingency.mp3"
+  },
+  "tamsin": {
+   "dur": 33112,
+   "file": "audio/voice/tamsin.mp3"
+  },
+  "yvonne": {
+   "dur": 29298,
+   "file": "audio/voice/yvonne.mp3"
+  },
+  "lastminute": {
+   "dur": 22858,
+   "file": "audio/voice/lastminute.mp3"
+  },
+  "silas": {
+   "dur": 37402,
+   "file": "audio/voice/silas.mp3"
+  },
+  "august": {
+   "dur": 26183,
+   "file": "audio/voice/august.mp3"
+  },
+  "call_voicemail": {
+   "dur": 6492,
+   "file": "audio/voice/call_voicemail.mp3"
+  },
+  "conference": {
+   "dur": 28926,
+   "file": "audio/voice/conference.mp3"
+  },
+  "beckett_loop": {
+   "dur": 16152,
+   "file": "audio/voice/beckett_loop.mp3"
+  },
+  "ck_coherence": {
+   "dur": 9917,
+   "file": "audio/voice/ck_coherence.mp3"
+  }
+ }
+}
